@@ -1,4 +1,0 @@
---- Stock Portfolio Summary ---
-TSLA: 2 shares x $250 = $500
-
-Total Portfolio Value: $500
